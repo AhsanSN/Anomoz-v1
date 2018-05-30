@@ -1,7 +1,4 @@
 # Anomoz
-An anonymous messaging web app like Sarahah with an option of public and private chatting. 
+An anonymous messaging web app like Sarahah with an option of public and private chatting. Uses PHP along with Javascript's AJAX to work. 
 
-
-Web app preview link: https://anomoz.com
-
-Google Playstore link: https://play.google.com/store/apps/details?id=com.wAnomoz_6603002
+Web app preview link: https://www.a.anomoz.com
