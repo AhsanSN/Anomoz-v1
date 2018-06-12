@@ -3,6 +3,53 @@ An anonymous messaging web app like Sarahah with an option of public and private
 
 Web app preview link: https://www.a.anomoz.com
 
+## Screenshots
+
+<table>
+  <tbody>
+    <tr>
+      <!-- Video 1 -->
+      <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(269).png">
+          <br>
+      </td>
+      <!-- Video 2 -->
+      <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(271).png">
+          <br>
+      </td>
+      <!-- Video 3 -->
+      <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(272).png">
+          <br>
+      </td>
+    </tr>
+    <tr>
+      <!-- Video 4 -->
+      <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(275).png">
+          <br>
+      </td>
+      <!-- Video 5 -->
+      <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(290).png">
+          <br>
+      </td>
+      <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(292).png">
+          <br>
+      </td>
+      <!-- Video 6 -->
+      <tr>
+      <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(486).png">
+          <br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Anomoz v2 (in progress)
 
 Anomoz v2 the updated and a totally different version of anomoz is currenlty being built. The beta version is available at https://www.anomoz.com
